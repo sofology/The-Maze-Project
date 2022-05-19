@@ -1,5 +1,4 @@
 #include "../headers/The_Maze.h"
-
 /**
  * drawRect - draw a rectangle
  * @x: x coordinate
