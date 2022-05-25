@@ -1,14 +1,14 @@
 #include "../headers/header.h"
 
 static const char *textureFileNames[NUM_TEXTURES] = {
-	"./images/redbrick.png",
-	"./images/purplestone.png",
-	"./images/mossystone.png",
-	"./images/graystone.png",
-	"./images/colorstone.png",
-	"./images/bluestone.png",
-	"./images/wood.png",
-	"./images/eagle.png",
+	"./images/greenbrick.png",
+	"./images/yellowstone.png",
+	"./images/grassstone.png",
+	"./images/brownstone.png",
+	"./images/Tiles_floor.png",
+	"./images/darkblue_brick.png",
+	"./images/woodenceiling.png",
+	"./images/archer_pharoh.png",
 };
 
 /**
